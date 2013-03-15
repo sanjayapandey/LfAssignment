@@ -1,0 +1,5 @@
+this	 count:2
+is	 count:2
+example	 count:2
+an	 count:1
+another	 count:1
